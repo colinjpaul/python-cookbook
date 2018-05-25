@@ -1,4 +1,4 @@
-# example.py
+# data_structure_examples.py
 #
 # An example of writing a simple recursive descent parser
 

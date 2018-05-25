@@ -1,4 +1,4 @@
-# example.py
+# data_structure_examples.py
 #
 # Sort a list of a dicts on a common key
 

@@ -1,4 +1,4 @@
-# example.py
+# data_structure_examples.py
 #
 # Determine the most common words in a list
 

@@ -1,4 +1,4 @@
-# example.py
+# data_structure_examples.py
 #
 # Examples of simple regular expression substitution
 

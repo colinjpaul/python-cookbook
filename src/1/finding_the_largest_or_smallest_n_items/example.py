@@ -1,4 +1,4 @@
-# example.py
+# data_structure_examples.py
 #
 # Example of using heapq to find the N smallest or largest items
 

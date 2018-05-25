@@ -1,4 +1,4 @@
-# example.py
+# data_structure_examples.py
 import sample
 
 def foo():

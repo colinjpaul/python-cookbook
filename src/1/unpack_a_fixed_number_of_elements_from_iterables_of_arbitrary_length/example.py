@@ -1,4 +1,4 @@
-# example.py
+# data_structure_examples.py
 #
 # Unpacking of tagged tuples of varying sizes
 

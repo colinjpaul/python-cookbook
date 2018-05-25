@@ -1,4 +1,4 @@
-# example.py
+# data_structure_examples.py
 #
 # Example of combining text via generators
 

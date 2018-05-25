@@ -1,4 +1,4 @@
-# example.py
+# data_structure_examples.py
 #
 # Various samples of reading CSV files
 

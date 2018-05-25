@@ -1,4 +1,4 @@
-# example.py
+# data_structure_examples.py
 #
 # Examples of reformatting text to different column widths
 

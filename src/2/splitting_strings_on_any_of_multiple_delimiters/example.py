@@ -1,4 +1,4 @@
-# example.py
+# data_structure_examples.py
 #
 # Example of splitting a string on multiple delimiters using a regex
 

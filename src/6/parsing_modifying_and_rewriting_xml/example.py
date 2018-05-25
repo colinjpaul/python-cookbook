@@ -1,4 +1,4 @@
-# example.py
+# data_structure_examples.py
 #
 # Example of reading an XML document, making changes, and writing it back out
 

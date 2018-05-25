@@ -1,4 +1,4 @@
-# example.py
+# data_structure_examples.py
 #
 # Find out what two dictionaries have in common
 
